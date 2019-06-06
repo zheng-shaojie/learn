@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    background: #eee;
+    margin: 50px auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.one {
+    width: 100px;
+}
+.two {
+    width: 150px;
+}
+.three {
+    width: 300px;
+}
